@@ -33,9 +33,8 @@ your Streamlit application file.
 features, optimizing the code, and fixing bugs. You can also add user
 authentication and authorization to make the application more secure.
 
-#Result of the project
+# Result of the project
 
-Results:
 The result of the project would be a Streamlit application that allows users to upload
 an image of a business card and extract relevant information from it using easyOCR.
 The extracted information would include the company name, card holder name,
